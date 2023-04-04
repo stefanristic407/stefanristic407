@@ -16,7 +16,7 @@ I can build your custom dynamic website using these technologies.
 ### Back-end
 - Nestjs, Expressjs, PHP Frameworks, Serverless
 
-### What you'll get from us?
+### What you'll get from me?
 - Unlimited Revisions
 - Super Clean Code
 - 100% Satisfaction Guaranteed
